@@ -1,0 +1,15 @@
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\bin\Debug\net8.0\Hotel Management.exe
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\bin\Debug\net8.0\Hotel Management.deps.json
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\bin\Debug\net8.0\Hotel Management.runtimeconfig.json
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\bin\Debug\net8.0\Hotel Management.dll
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\bin\Debug\net8.0\Hotel Management.pdb
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\obj\Debug\net8.0\Hotel Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\obj\Debug\net8.0\Hotel Management.AssemblyInfoInputs.cache
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\obj\Debug\net8.0\Hotel Management.AssemblyInfo.cs
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\obj\Debug\net8.0\Hotel Management.csproj.CoreCompileInputs.cache
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\obj\Debug\net8.0\Hotel Management.sourcelink.json
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\obj\Debug\net8.0\Hotel Management.dll
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\obj\Debug\net8.0\refint\Hotel Management.dll
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\obj\Debug\net8.0\Hotel Management.pdb
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\obj\Debug\net8.0\Hotel Management.genruntimeconfig.cache
+C:\Users\Eine Jhersean\source\repos\Hotel Management\Hotel Management\obj\Debug\net8.0\ref\Hotel Management.dll
